@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://img.shields.io/badge/STATUS%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></h1> 
+<h1 align="center"><img src="https://img.shields.io/badge/STATUS:%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></h1> 
 
 ![Alt Text](https://github.com/developersapi/WB_POO/blob/sprint1/agendawp.png)
 
