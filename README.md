@@ -1,6 +1,12 @@
-## HEAD
- 
+<p><img src="https://img.shields.io/badge/STATUS%20Em%20Construção-blue?style=for-the-badge&logo=appveyor"></p> 
 ![Alt Text](https://github.com/developersapi/WB_POO/blob/sprint1/agendawp.png)
+
+<p>
+<img src="https://img.shields.io/badge/Tecnologia-Java-9cf">
+<img src="https://img.shields.io/badge/Tecnologia-Eclipse-9cf">
+<img src="https://img.shields.io/badge/Tecnologias-Mysql-9cf">
+<img src="https://img.shields.io/badge/Tecnologia-Materialize-9cf">
+</p>
 
 --------------------------------------------------------------------------------------------------------------------
 ## :microscope: O PROJETO: 
