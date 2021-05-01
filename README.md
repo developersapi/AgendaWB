@@ -2,12 +2,12 @@
 
 ![Alt Text](https://github.com/developersapi/WB_POO/blob/sprint1/agendawp.png)
 
-<p>
+<h1 align="center">
 <img src="https://img.shields.io/badge/Tecnologia-Java-9cf">
 <img src="https://img.shields.io/badge/Tecnologia-Eclipse-9cf">
 <img src="https://img.shields.io/badge/Tecnologias-Mysql-9cf">
 <img src="https://img.shields.io/badge/Tecnologia-Materialize-9cf">
-</p>
+</h1> 
 
 --------------------------------------------------------------------------------------------------------------------
 ## :microscope: O PROJETO: 
